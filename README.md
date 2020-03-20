@@ -1,3 +1,5 @@
+## just a hacky way to reach you :)
+
 # Local CORS Proxy
 
 Simple proxy to bypass CORS issues. This was built as a local dev only solution to enable prototyping against existing APIs without having to worry about CORS.
